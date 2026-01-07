@@ -1,0 +1,20 @@
+class SocialEngineering:
+    # Email Spoofer (educational)
+    def send_spoofed_email(self, target, subject, body):
+        """Educational email spoofing demonstration"""
+        pass
+    
+    # QR Code Generator (malicious URL demo)
+    def generate_qr_payload(self, url):
+        """Generate QR code with URL payload"""
+        pass
+    
+    # USB Rubber Ducky Script Generator
+    def create_ducky_script(self, commands):
+        """Create HID attack scripts"""
+        pass
+    
+    # Fake Access Point
+    def create_evil_twin(self, ssid):
+        """Create rogue AP for educational purposes"""
+        pass

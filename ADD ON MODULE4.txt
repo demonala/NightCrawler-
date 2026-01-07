@@ -1,0 +1,24 @@
+class CryptoStego:
+    # File Steganography
+    def hide_in_image(self, image_path, secret_data):
+        """Hide data in image using LSB"""
+        pass
+    
+    def extract_from_image(self, image_path):
+        """Extract hidden data from image"""
+        pass
+    
+    # Encrypted Chat Simulator
+    def encrypted_messenger(self):
+        """Simulate encrypted communication"""
+        pass
+    
+    # File Encryption/Decryption
+    def encrypt_file(self, file_path, password):
+        """AES encrypt file"""
+        pass
+    
+    # Blockchain Address Generator
+    def generate_crypto_wallet(self):
+        """Generate crypto wallet addresses"""
+        pass
